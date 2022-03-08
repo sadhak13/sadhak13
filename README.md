@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadhak13
 - 👀 I’m interested in Full stack development!!
-- 🌱 I’m currently learning Data structures, React JS, python andmuch more...
+- 🌱 I’m currently learning Data structures, React JS, python and much more...
 - 📫 Reach me- https://www.linkedin.com/in/sadhakbanerjee/  
 
 <!---
